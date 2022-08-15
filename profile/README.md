@@ -6,4 +6,4 @@
 Welcome to Collection Scripts. This is our official github page
 </p>
 
-<p align="center"> <a href="dsc.gg/collection-scripts">» Discord</a>   <a href="collection-scripts.com">» Website</a> </p>
+<p align="center"> <a href="http://dsc.gg/collection-scripts">» Discord</a>   <a href="http://collection-scripts.com">» Website</a> </p>
