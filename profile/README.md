@@ -3,7 +3,7 @@
  </p>
 <h1 align="center">Collection Scripts</h1>
 <p align="center">
-Welcome to Collection Scripts. This is our official github page
+Welcome to Collection. This is our official github page
 </p>
 
 <p align="center"> <a href="http://dsc.gg/collection-scripts">» Discord</a>   <a href="http://collection-scripts.com">» Website</a> </p>
